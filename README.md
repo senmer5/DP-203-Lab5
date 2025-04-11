@@ -59,3 +59,20 @@ By completing this lab, you will:
 
 ## 🧹 Cleanup Reminder
 Don't forget to delete your Azure resource group after finishing the lab to prevent unnecessary charges. 🔥
+
+##screenshot
+
+<img width="761" alt="1" src="https://github.com/user-attachments/assets/8b0c6bfd-2fcd-457b-a5c2-ecf51953e614" />
+
+<img width="1416" alt="22" src="https://github.com/user-attachments/assets/1d1cb884-4281-464c-a343-b3a83a3293d0" />
+
+<img width="1389" alt="33" src="https://github.com/user-attachments/assets/9997f5a2-f614-478d-89f3-5bb46ebb3bee" />
+
+<img width="1127" alt="44" src="https://github.com/user-attachments/assets/2b783a85-2d0f-41d1-b6be-cd92b2751829" />
+
+<img width="755" alt="55" src="https://github.com/user-attachments/assets/29d75f00-b8db-40fc-8e07-0945550dd94f" />
+
+<img width="757" alt="6" src="https://github.com/user-attachments/assets/c046e2b7-977c-4e08-836a-390dd9b0485b" />
+
+<img width="1235" alt="77" src="https://github.com/user-attachments/assets/a0f84a64-3727-42c7-b572-f23aa99ab8e6" />
+
