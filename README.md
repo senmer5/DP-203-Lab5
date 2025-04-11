@@ -60,7 +60,7 @@ By completing this lab, you will:
 ## 🧹 Cleanup Reminder
 Don't forget to delete your Azure resource group after finishing the lab to prevent unnecessary charges. 🔥
 
-##screenshot
+## Screenshots
 
 <img width="761" alt="1" src="https://github.com/user-attachments/assets/8b0c6bfd-2fcd-457b-a5c2-ecf51953e614" />
 
